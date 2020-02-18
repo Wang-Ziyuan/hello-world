@@ -5,5 +5,6 @@ My first repository
   
   int main(){
   cout<<"hello world!";
+  cout<<"Be brave!";
   return 0;
   }
